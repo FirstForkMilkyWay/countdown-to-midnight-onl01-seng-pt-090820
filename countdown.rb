@@ -8,4 +8,4 @@ def countdown
   end 
 end
 
-puts 
+puts "HAPPY NEW YEAR!" 

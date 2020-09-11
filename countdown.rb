@@ -5,4 +5,7 @@ def countdown
   while integer >= 0 
     integer -= 1 
     puts "#{integer} SECOND(S)"
+  end 
 end
+
+puts 
